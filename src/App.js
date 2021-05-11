@@ -1,15 +1,16 @@
 import React from 'react';
 import './App.css';
+import Header from "./Header";
+import TinderCards from "./TinderCards";
 
 function App() {
   return (
     <div className="app">
-      <h1>Let's build the MERN Tinder!</h1>
 
-      {/* Header */}
-      {/* TinderCards */}
+      <Header />
+      <TinderCards />
       {/* Swipe buttons */}
-      
+
     </div>
   );
 }
