@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# Walter's additions
+/.env
+
 # testing
 /coverage
 
